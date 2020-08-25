@@ -38,7 +38,7 @@ https://pt.stackoverflow.com/questions/396224/o-que-%C3%A9-svelte-js
 
 ## O lado negro da força
 
-Artigos mostrando o lado ruim do Svelte, fazendo um contra ponto.faze
+Artigos mostrando o lado ruim do Svelte, fazendo um contra ponto.
 
 https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a
 
@@ -48,10 +48,17 @@ https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd9
 https://medium.com/swlh/react-vue-svelte-on-one-page-with-micro-frontends-f740b3ee6979
 
 
-
 ## Exemplos
 
 https://madewithsvelte.com/
+
+
+## Escrevendo Testes Unitários com Svelte
+
+Uma séria de 8 partes de Daniel Irvine nos mostrando como escrever testes de
+unidade com Svelte.
+
+https://dev.to/d_ir/introduction-4cep
 
 
 ## Comunidade Brazuca no Github
@@ -61,7 +68,8 @@ https://github.com/svelte-brasil
 
 ## O pai da criança (Rich Harris)
 
-+ [Pensando em Reatividade](https://youtu.be/AdNJ3fydeao)
++ [Repensando em Reatividade](https://youtu.be/AdNJ3fydeao)
++ [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno)
 
 
 ## Site Oficial
